@@ -1,5 +1,5 @@
 INFO:root:User entered upper limit:10
-INFO:root:User entered 5try 
+INFO:root:User entered 5 try 
 INFO:root:User number(1) turned out to be less than predicted (1)
 INFO:root:User number(5) turned out to be less than predicted (5)
 INFO:root:User number(7) turned out to be less than predicted (7)
