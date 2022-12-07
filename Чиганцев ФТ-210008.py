@@ -13,7 +13,7 @@ while True:
 while True:
     try:
         K=int(input('Введите количество попыток:'))
-        logging.info('User entered '+str(K)+'try ')
+        logging.info('User entered '+str(K)+' try ')
         break
     except ValueError:
         print('Ошибка ввода. Попробуйте еще раз')
